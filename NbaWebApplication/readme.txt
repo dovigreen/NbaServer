@@ -1,4 +1,4 @@
-﻿controllers/DefaultController - main controller, have one method "GetTop10"
+﻿controllers/DefaultController - main controller, has one method "GetTop10"
 
 Objects
 	Player - contains the player details 
@@ -10,5 +10,5 @@ Objects
 	JsonTeams - inner object to deserialize json
 
 
-JsonUtils - have utils function to download data and deserialize them
-PlayerUtils - have the logical methods to get the top 10 players
+JsonUtils - has utils function to download data and deserialize them
+PlayerUtils - has the logical methods to get the top 10 players
